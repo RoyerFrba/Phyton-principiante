@@ -1,0 +1,9 @@
+colab.research.google.com
+
+INMERSION DE DATOS CON PHYTON 
+ IA: "importa los siguientes modulos con sus respectivos alias : pandas , matplotlib,seaborn ,drive de google colab warnings"
+
+
+ DataFrame en phyton 
+
+ Genera un codigo en phyton que permita graficar un histograma con la variable sexo y que utilize la matplolib y seaborn y que tome los datos a partir de un datafreame de pandas llamado "df_banco"
